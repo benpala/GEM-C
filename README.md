@@ -1,2 +1,0 @@
-# GEM-C
-Projet synthèse
